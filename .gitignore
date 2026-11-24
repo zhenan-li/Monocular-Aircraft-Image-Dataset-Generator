@@ -1,0 +1,18 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/.vs/
+*.csproj
+*.sln
+
+# Original scene dependencies imported from a local copy.
+/Assets/Aircrafts/
+/Assets/Aircrafts.meta
+/Assets/Standard Assets/
+/Assets/Standard Assets.meta
+/Assets/TextMesh Pro/
+/Assets/TextMesh Pro.meta
